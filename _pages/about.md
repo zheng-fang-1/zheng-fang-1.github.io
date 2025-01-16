@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Fang Zheng's profile"
+title: "About Fang Zheng"
 author_profile: true
 redirect_from: 
   - /about/
