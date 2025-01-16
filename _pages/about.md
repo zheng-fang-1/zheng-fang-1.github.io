@@ -13,6 +13,8 @@ She earned her Master's degree in Pharmacy from South China University of Techno
 
 Fang's primary research focus lies in the field of biomedical engineering, where she is dedicated to exploring innovative solutions and advancing knowledge in this interdisciplinary area.
 
+Fang's <a href="../files/CV_ZHENG_FANG.pdf" target="_blank">CV</a> is here.
+
 Education
 ======
 * M.S. in Pharmacy, South China University of Technology, 2022
