@@ -43,19 +43,19 @@ Chinese Patents
 
   (Kun Wei, **Fang Zheng**, Jiayu Luo, Yuanqi Liu. *A Tumor Microenvironment-Based mPEG-PLGA Nanoparticle Loaded with Huanggenzine and Its Preparation Method and Application.*)
 
-* 魏坤, 颜阳, **郑芳**, 刘媛琪. <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1h1e0vb02t0e0610nj680m80nv795317" target="_blank">一种声响应型载药棒状介孔硅及其制备方法与应用.</a>, CN202111661894.5, 2022
+* 魏坤, 颜阳, **郑芳**, 刘媛琪. <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1h1e0vb02t0e0610nj680m80nv795317" target="_blank">一种声响应型载药棒状介孔硅及其制备方法与应用</a>, CN202111661894.5, 2022
 
   (Kun Wei, Yang Yan, **Fang Zheng**, Yuanqi Liu. *A Sonoresponsive Drug-Loaded Rod-Shaped Mesoporous Silica and Its Preparation Method and Application.*)
 
-* 魏坤, **郑芳**, 刘媛琪, <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1a3w0420pc680810713d0g406b714184" target="_blank">载透明质酸与白藜芦醇介孔硅及其制备方法与应用.</a>, CN202111668972.4, 2022
+* 魏坤, **郑芳**, 刘媛琪, <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1a3w0420pc680810713d0g406b714184" target="_blank">载透明质酸与白藜芦醇介孔硅及其制备方法与应用</a>, CN202111668972.4, 2022
 
   (Kun Wei, **Fang Zheng**, Yuanqi Liu. *A Mesoporous Silica Loaded with Hyaluronic Acid and Resveratrol and Its Preparation Method and Application.*)
   
-* 魏坤, 刘媛琪, **郑芳**, <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1e6t0jd01v2p0j20371x0a90ct471489" target="_blank">一种茶多酚交联嵌入纳米氧化铈的蛋白/多糖复合膜材料及其制备方法.</a>, CN202111474522.1, 2022
+* 魏坤, 刘媛琪, **郑芳**, <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1e6t0jd01v2p0j20371x0a90ct471489" target="_blank">一种茶多酚交联嵌入纳米氧化铈的蛋白/多糖复合膜材料及其制备方法</a>, CN202111474522.1, 2022
 
   (Kun Wei, Yuanqi Liu, **Fang Zheng**. *A Tea Polyphenol Crosslinked Protein/Polysaccharide Composite Membrane Material Embedded with Nano-Ceria and Its Preparation Method.*)
   
-* 魏坤, 刘媛琪, 陈文玉, **郑芳** <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1t4u0c503r1c0rj0ng5v02v0cn147963" target="_blank">一种能快速涂抹-负载紫外屏蔽剂的“防晒压缩片”及其制备方法与使用方法.</a>, CN202111679859.6, 2022
+* 魏坤, 刘媛琪, 陈文玉, **郑芳** <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1t4u0c503r1c0rj0ng5v02v0cn147963" target="_blank">一种能快速涂抹-负载紫外屏蔽剂的“防晒压缩片”及其制备方法与使用方法</a>, CN202111679859.6, 2022
 
   (Kun Wei, Yuanqi Liu, Wenyu Chen, **Fang Zheng**. *A "Sunscreen Compressed Tablet" Capable of Rapid Application and Loaded with UV Shielding Agents, and Its Preparation and Usage Methods.*)
   
