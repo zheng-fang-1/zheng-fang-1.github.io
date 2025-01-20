@@ -39,17 +39,18 @@ You can also find my articles on my <a href="{{site.author.googlescholar}}">Goog
 
 Chinese Patents
 ======
-<a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=196y04s0g0480mj0ms1x0820e6265855" target="_blank">一种基于肿瘤微环境的负载黄岑素的mPEG-PLGA纳米粒及其制备方法与应用</a>
+* 魏坤, **郑芳**, 罗雨家, 刘媛琪. <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=196y04s0g0480mj0ms1x0820e6265855" target="_blank">一种基于肿瘤微环境的负载黄岑素的mPEG-PLGA纳米粒及其制备方法与应用</a>
+(Kun Wei, **Fang Zheng**, Jiayu Luo, Yuanqi Liu. A Tumor Microenvironment-Based mPEG-PLGA Nanoparticle Loaded with Huanggenzine and Its Preparation Method and Application)
 
-* 一种声响应型载药棒状介孔硅及其制备方法与应用
+* 魏坤, 颜阳, **郑芳**, 刘媛琪, 一种声响应型载药棒状介孔硅及其制备方法与应用
 
-* 载透明质酸与白藜芦醇介孔硅及其制备方法与应用
+* 魏坤, **郑芳**, 刘媛琪, 载透明质酸与白藜芦醇介孔硅及其制备方法与应用
   
-* 一种茶多酚交联嵌入纳米氧化铈的蛋白/多糖复合膜材料及其制备方法
+* 魏坤, 刘媛琪, **郑芳**, 一种茶多酚交联嵌入纳米氧化铈的蛋白/多糖复合膜材料及其制备方法
   
-* 一种能快速涂抹-负载紫外屏蔽剂的“防晒压缩片”及其制备方法与使用方法
+* 魏坤, 刘媛琪, 陈文玉, **郑芳** 一种能快速涂抹-负载紫外屏蔽剂的“防晒压缩片”及其制备方法与使用方法
   
-* 一种声响应型载药棒状介孔硅及其制备方法与应用
+* 魏坤, 颜阳, **郑芳**, 刘媛琪 一种声响应型载药棒状介孔硅及其制备方法与应用
 
 
 <div class="hitcounter"><a href="https://info.flagcounter.com/5bRG"><img src="https://s05.flagcounter.com/count2/5bRG/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a></div>
