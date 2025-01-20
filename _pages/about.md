@@ -33,3 +33,7 @@ Publication
  
 * Yuanqi Liu, Wenyu Chen, **Fang Zheng**, Huanan Yu, Kun Wei. Xanthatin Alleviates LPS-Induced Inflammatory Response in RAW264.7 Macrophages by Inhibiting NF-kB, MAPK and STATs Activation. Molecules, Volume 27, 2022.
 
+
+
+<div class="hitcounter"><a href="https://info.flagcounter.com/5bRG"><img src="https://s05.flagcounter.com/count2/5bRG/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a></div>
+
