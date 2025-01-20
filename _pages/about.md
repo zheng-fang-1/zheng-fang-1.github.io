@@ -11,7 +11,7 @@ Fang is a researcher at a biotechnology company in China, currently seeking a Ph
 
 She earned her Master's degree in Pharmacy from South China University of Technology in 2022 and her Bachelor's degree in Pharmacy from Qingdao University in 2019.
 
-Fang's primary research focus lies in the field of biomedical engineering, where she is dedicated to exploring innovative solutions and advancing knowledge in this interdisciplinary area.
+Fang's primary research focus lies in the field of Nanoparticles, Nanomedicine, and Nanosystems, where she is dedicated to exploring innovative solutions and advancing knowledge in this area.
 
 Fang's <a href="../files/CV_ZHENG_FANG.pdf" target="_blank">CV</a> is here.
 
@@ -22,7 +22,7 @@ Education
 
 Publication
 ======
-You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile
+You can also find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar profile
 
 * Yujia Luo, **Fang Zheng**, Yuanyuan Gao, Wenyu Chen, Xinrui Xue, Chujie Xiao, Kun Wei. Flower-Like MnO2 Nanoparticle-Based Dual GSH-Depleting Nanosystems for Chemo-/Chemodynamic/Sonodynamic Cancer Therapy. ACS Applied Nano Materials, Volume7, 2024.
 
@@ -39,7 +39,7 @@ You can also find my articles on <a href="{{site.author.googlescholar}}">my Goog
 
 Chinese Patents
 ======
-* 一种基于肿瘤微环境的负载黄岑素的mPEG-PLGA纳米粒及其制备方法与应用
+<a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=196y04s0g0480mj0ms1x0820e6265855" target="_blank">一种基于肿瘤微环境的负载黄岑素的mPEG-PLGA纳米粒及其制备方法与应用</a>
 
 * 一种声响应型载药棒状介孔硅及其制备方法与应用
 
